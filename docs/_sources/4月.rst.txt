@@ -2,10 +2,11 @@
 ===========================
 
 
-•	参与Yangtze医疗版文件的准备
-•	Learning Product Plan文件
-•	Yangtze Design Validation Plan文件
-•	Yangtze 1.0 DHF Map and Index
-•	更新SR80S IFU
-•	更新SR80S Service Guide
-•	更新SR80S Quick Card
+参与Yangtze医疗版文件的准备
+--------------------------------
+  •	Learning Product Plan文件
+  •	Yangtze Design Validation Plan文件
+  •	Yangtze 1.0 DHF Map and Index
+  •	更新SR80S IFU
+  •	更新SR80S Service Guide
+  •	更新SR80S Quick Card

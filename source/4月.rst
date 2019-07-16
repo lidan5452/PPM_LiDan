@@ -2,7 +2,8 @@
 ===========================
 
 
-- 参与Yangtze医疗版文件的准备
+参与Yangtze医疗版文件的准备
+--------------------------------
   •	Learning Product Plan文件
   •	Yangtze Design Validation Plan文件
   •	Yangtze 1.0 DHF Map and Index
