@@ -18,6 +18,7 @@ Welcome to Dan's Space!
    5月.rst
    6月.rst
    7月.rst
+   上半年工作总结.rst
    工作展望.rst
   
 
